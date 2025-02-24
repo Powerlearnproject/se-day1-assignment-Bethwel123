@@ -7,6 +7,7 @@ Software Engineering Day1 Assignment
 1. Explain what software engineering is and discuss its importance in the technology industry.
 Software enginering is the establishment and use of sound engineering principles, methods, tools that can be used to produce high quality software that is reliable and works efficirntly on real machines.
 
+
 Software engineering plays a key role in the technology industry by ensuring that software applications are designed, tested thoroughly and and maintained effectively inorder to meet user needs and business objectives.
 
 
